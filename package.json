@@ -1,0 +1,11 @@
+{
+  "name": "lepture-format",
+  "description": "An easy way for formatting in content editable.",
+  "version": "0.2.0",
+  "keywords": [],
+  "dependencies": {
+    "lepture-caret": "git://github.com/npmcomponent/lepture-caret.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git"
+  },
+  "license": "MIT"
+}

@@ -5,8 +5,8 @@
  *
  * Copyright (c) 2013 by Hsiaoming Yang.
  */
-var Caret = require('caret');
-var Emitter = require('emitter');
+var Caret = require('lepture-caret');
+var Emitter = require('component-emitter');
 var emitter = new Emitter();
 
 function format(name) {
